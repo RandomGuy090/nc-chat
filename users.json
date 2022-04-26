@@ -1,0 +1,13 @@
+{
+	"admin": {
+		"name": "admin",
+		"password": "admin",
+		"color": "\\u001b[0;32m"
+	},
+	"janusz": {
+		"name": "janusz",
+		"password": "janusz",
+		"color": "\\u001b[0;31m"
+
+	}
+}
